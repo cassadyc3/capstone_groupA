@@ -6,4 +6,4 @@ The first notebook "Capstone_Group_A_rawmaterials" includes how we set up our Ti
 
 The second notebook "Prophet_and_XGBoost_combined_Jul10" defines functions to initiate train and test splits for each raw material with 100 or more purchase points, run param grids, and initialize the model. The final cell loops the functions for all raw materials.
 
-The final notebook "" only runs XGBoost for raw materials with less than 100 purchase points.
+The final notebook "Raw_Materials_less_100" only runs XGBoost for raw materials with less than 100 purchase points.
